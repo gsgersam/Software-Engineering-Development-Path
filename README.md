@@ -58,7 +58,7 @@ This public space showcases the **Engineering Design**, **Logic Architecture**, 
 ### Rank 05: Infrastructure & networks (DevOps)
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
-| **ft_irc** | Networking | Socket programming and IRC protocol. | [DevDoc](./Rank-05/ft_irc/) |
+| **ft_irc** | Networking | Socket programming and IRC protocol. | [DevDoc](./Rank-05/ft_IRC/) |
 | **Inception** | DevOps | Docker, Nginx, MariaDB, and system orchestration. | [DevDoc](./Rank-05/inception/) |
 
 ---
