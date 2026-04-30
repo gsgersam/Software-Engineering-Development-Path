@@ -67,10 +67,10 @@ This public space showcases the **Engineering Design**, **Logic Architecture**, 
 
 In addition to project documentation, this repository contains deep-dives into specific engineering topics:
 
-* **[Selection of C++ Containers](./documentation/study_guides/cpp_02.md)**  
+* **[Selection of C++ Containers](./documentations/study_guides/cpp_02.md)**  
   Analysis of performance trade-offs between `std::deque`, `std::vector`, and `std::list` (Rank 05).
 
-* **[Algorithm Deep Dive](./documentation/study_guides/cpp_09.md)**  
+* **[Algorithm Deep Dive](./documentations/study_guides/cpp_09.md)**  
   Breakdown of **Reverse Polish Notation**, **Ford-Johnson Sort**, and **Jacobsthal** sorting logic.
 
 * **Infrastructure as Code**  
