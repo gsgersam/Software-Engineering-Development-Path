@@ -20,6 +20,7 @@ This public space showcases the **Engineering Design**, **Logic Architecture**, 
 | :--- | :--- | :--- | :--- |
 | **ft_printf** | Variadic Functions | Format parsing and low-level output handling. | [DevDoc](./Rank-01/ft_printf/) |
 | **get_next_line** | File I/O | Static variables and buffer management. | [DevDoc](./Rank-01/get_next_line/) |
+| **born2beroot** | System Administration | Linux setup, user management, sudo, SSH, firewall (UFW), and security policies. | [DevDoc](./Rank-01/born2beroot/) |
 
 ### Rank 02: Process control, algorithms & graphical programming
 | Project | Focus | Key Technical Concepts | Documentation |
@@ -88,7 +89,7 @@ In addition to project documentation, this repository contains deep-dives into s
 
 ---
 
-## 📄 License
+## License
 
 This work is licensed under CC BY-ND 4.0.  
 https://creativecommons.org/licenses/by-nd/4.0/
