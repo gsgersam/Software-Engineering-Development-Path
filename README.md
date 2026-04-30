@@ -15,12 +15,12 @@ This public space showcases the **Engineering Design**, **Logic Architecture**, 
 | :--- | :--- | :--- | :--- |
 | **libft** | Standard Library | Memory management, pointers, and data structures. | [DevDoc](./Rank-00/libft/) |
 | **ft_printf** | Variadic Functions | String parsing and low-level output handling. | [DevDoc](./Rank-01/ft_printf/) |
-| **get_next_line** | File Descriptors | Static variables and buffer management. | [DevDoc](./Rank-01/get_next_line/) |
-| **pipex** | System Calls | Unix pipes, fork/execve, and process redirection. | [DevDoc](./Rank-01/pipex/) |
+| **get_next_line** | File Descriptors | Static variables and buffer management. | [DevDoc](./Rank-01/get_next_line/) | |
 
 ### Rank 02 - 03: Algorithms, Graphics & Concurrency
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
+| **pipex** | System Calls | Unix pipes, fork/execve, and process redirection. | [DevDoc](./Rank-02/pipex/)
 | **push_swap** | Optimization | Algorithm complexity (O-notation) and stack sorting. | [DevDoc](./Rank-02/push_swap/) |
 | **so_long** | Graphics | Event handling (MLX) and map parsing. | [DevDoc](./Rank-02/so_long/) |
 | **minishell** | Systems | Lexing, parsing, and environment variable management. | [DevDoc](./Rank-03/minishell/) |
