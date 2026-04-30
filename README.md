@@ -38,7 +38,7 @@ This public space showcases the **Engineering Design**, **Logic Architecture**, 
 ### Rank 04: Advanced algorithmic & graphical programming
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
-| **cub3d** | Raycasting | 3D projection and trigonometry. | [DevDoc](./Rank-04/cub3d/) |
+| **cub3d** | Raycasting | 3D projection and trigonometry. | [DevDoc](./Rank-04/cub3D/) |
 | **NetPractice** | Networking | IP addressing, subnetting, and routing logic. | [NetPractice Guide](./Rank-04/Netpractice/Netpractice_guide.md) |
 
 ### Rank 04 - 05: Advanced C++ & object-oriented programming
@@ -67,10 +67,10 @@ This public space showcases the **Engineering Design**, **Logic Architecture**, 
 
 In addition to project documentation, this repository contains deep-dives into specific engineering topics:
 
-* **[Selection of C++ Containers](./study_guides/cpp_02.md)**  
+* **[Selection of C++ Containers](./documentation/study_guides/cpp_02.md)**  
   Analysis of performance trade-offs between `std::deque`, `std::vector`, and `std::list` (Rank 05).
 
-* **[Algorithm Deep Dive](./study_guides/cpp_09.md)**  
+* **[Algorithm Deep Dive](./documentation/study_guides/cpp_09.md)**  
   Breakdown of **Reverse Polish Notation**, **Ford-Johnson Sort**, and **Jacobsthal** sorting logic.
 
 * **Infrastructure as Code**  
