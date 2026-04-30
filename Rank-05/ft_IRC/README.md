@@ -187,13 +187,5 @@ Client Socket Event
                                       +-----------------------+
 ```
 
-## Where is the DevDoc?
 
-The file is here: [documentation/DevDoc.md](documentation/DevDoc.md)
-
-If your editor tree does not refresh, run:
-
-```bash
-ls -l documentation/DevDoc.md
-```
 Developed in collaboration with [Maria Florencia Calciati](https://github.com/mfcal223), [Ines passtor](https://github.com/inespastor) and [German Andres Sanin](https://github.com/gsgersam)
