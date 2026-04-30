@@ -193,4 +193,4 @@ The shell keeps a global `exit_status` inside `g_data` to propagate return codes
 - Exact behavior for edge cases may differ from Bash in some scenarios.
 - The project focuses on robust parsing and execution within minishell scope.
 
-Developed in collaboration with ![Oleg Ilyine De Liamchine](github.com/KennObbyu) ![German Andres Sanin](https://github.com/gsgersam)
+Developed in collaboration with [Oleg Ilyine De Liamchine](https://github.com/KennObby), and [German Andres Sanin](https://github.com/gsgersam)
