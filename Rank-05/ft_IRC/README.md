@@ -6,10 +6,10 @@ The implementation is based on a single non-blocking `poll()` loop and a strict 
 
 ## Start Here
 
-- Project server docs: [IRC/README.md](ft_IRC/README.md)
-- Developer docs (full technical flow): [documentation/DevDoc.md](ft_IRC/DevDoc.md)
-- Extended flowchart: [documentation/IRC_FLOWCHART.md](ft_IRC/IRC_FLOWCHART.md)
-- Deep audit report: [documentation/IRC_FLOW_AUDIT_REPORT.md](ft_IRC/IRC_FLOW_AUDIT_REPORT.md)
+- Project server docs: [IRC/README.md](/Rank-05/ft_IRC/README.md)
+- Developer docs (full technical flow): [documentation/DevDoc.md](/Rank-05ft_IRC/DevDoc.md)
+- Extended flowchart: [documentation/IRC_FLOWCHART.md](/Rank-05/ft_IRC/IRC_FLOWCHART.md)
+- Deep audit report: [documentation/IRC_FLOW_AUDIT_REPORT.md](/Rank-05/ft_IRC/IRC_FLOW_AUDIT_REPORT.md)
 
 ## Project Highlights
 
