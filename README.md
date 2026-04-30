@@ -10,47 +10,55 @@ This public space showcases the **Engineering Design**, **Logic Architecture**, 
 
 ##  The Curriculum Roadmap
 
-### Rank 00 - 01: The Foundations of C & Unix
+### Rank 00: The Foundations of C & Unix
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
 | **libft** | Standard Library | Memory management, pointers, and data structures. | [DevDoc](./Rank-00/libft/) |
-| **ft_printf** | Variadic Functions | String parsing and low-level output handling. | [DevDoc](./Rank-01/ft_printf/) |
-| **get_next_line** | File Descriptors | Static variables and buffer management. | [DevDoc](./Rank-01/get_next_line/) | |
 
-### Rank 02 - 03: Algorithms, Graphics & Concurrency
+### Rank 01: Low-level I/O, format parsing & memory management in C
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
-| **pipex** | System Calls | Unix pipes, fork/execve, and process redirection. | [DevDoc](./Rank-02/pipex/)
-| **push_swap** | Optimization | Algorithm complexity (O-notation) and stack sorting. | [DevDoc](./Rank-02/push_swap/) |
+| **ft_printf** | Variadic Functions | Format parsing and low-level output handling. | [DevDoc](./Rank-01/ft_printf/) |
+| **get_next_line** | File I/O | Static variables and buffer management. | [DevDoc](./Rank-01/get_next_line/) |
+
+### Rank 02: Process control, algorithms & graphical programming
+| Project | Focus | Key Technical Concepts | Documentation |
+| :--- | :--- | :--- | :--- |
+| **pipex** | System Calls | Pipes, fork/execve, and process redirection. | [DevDoc](./Rank-02/pipex/) |
+| **push_swap** | Optimization | Algorithm complexity and stack-based sorting. | [DevDoc](./Rank-02/push_swap/) |
 | **so_long** | Graphics | Event handling (MLX) and map parsing. | [DevDoc](./Rank-02/so_long/) |
-| **minishell** | Systems | Lexing, parsing, and environment variable management. | [DevDoc](./Rank-03/minishell/) |
-| **philosophers** | Concurrency | Threading, mutexes, and deadlock prevention. | [DevDoc](./Rank-03/philosophers/) |
 
-### Rank 04 : Advanced Algorithmic Rigor
+### Rank 03: Process management, concurrency & shell implementation in C
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
-| **cub3d** | Raycasting | 3D projection and mathematical trigonometry. | [DevDoc](./Rank-04/cub3d/) |
-| **NetPractice** | Networking | IP/TCP Subnetting and Routing logic. | [NetPractice Guide](./Rank-04/Netpractice/Netpractice_guide.md) |
+| **minishell** | Systems | Lexing, parsing, pipes, and environment management. | [DevDoc](./Rank-03/minishell/) |
+| **philosophers** | Concurrency | Threads, mutexes, synchronization, and deadlock prevention. | [DevDoc](./Rank-03/philosophers/) |
 
-### Rank 04 - 05: Advanced C++ & Algorithmic Rigor
+### Rank 04: Advanced algorithmic & graphical programming
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
-| **CPP 00** | OOP & OCF | **Basics of c++**. | [DevDoc](./Rank-04/cpp_00/) |
-| **CPP 01** | OOP & OCF | **Memory and references**. | [DevDoc](./Rank-04/cpp_01/) |
-| **CPP 02** | OOP & OCF | **Basics Ordotoxe Canonical Form**. | [DevDoc](./Rank-04/cpp_02/) |
-| **CPP 03** | OOP & OCF | **Inheritance**. | [DevDoc](./Rank-04/cpp_03/) |
-| **CPP 04** | OOP & OCF | **Polymorphism**. | [DevDoc](./Rank-04/cpp_04/) |
-| **CPP 05** | OOP & OCF | **Exceptions**. | [DevDoc](./Rank-05/cpp_05/) |
-| **CPP 06** | OOP & OCF | **Casting**. | [DevDoc](./Rank-05/cpp_06/) |
-| **CPP 07** | OOP & OCF | **Templates**. | [DevDoc](./Rank-05/cpp_07/) |
-| **CPP 08** | OOP & STL | ****Containers and STL**  | [DevDoc](./Rank-05/cpp_08/) |
-| **CPP 09** | OOP & STL | ****Full Integration**  | [DevDoc](./Rank-05/cpp_09/) |
+| **cub3d** | Raycasting | 3D projection and trigonometry. | [DevDoc](./Rank-04/cub3d/) |
+| **NetPractice** | Networking | IP addressing, subnetting, and routing logic. | [NetPractice Guide](./Rank-04/Netpractice/Netpractice_guide.md) |
 
-### Rank 05: Infrastructure & Networks (DevOps)
+### Rank 04 - 05: Advanced C++ & object-oriented programming
 | Project | Focus | Key Technical Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
-| **ft_irc** | Networking | Socket programming (TCP/IP) and IRC protocol. | [DevDoc](./Rank-05/ft_IRC/) |
-| **Inception** | Virtualization | Docker, Nginx, MariaDB & System Orchestration. | [DevDoc](./Rank-05/inception/) |
+| **CPP 00** | OOP | Basics of C++. | [DevDoc](./Rank-04/cpp_00/) |
+| **CPP 01** | Memory | Pointers, references, and allocation. | [DevDoc](./Rank-04/cpp_01/) |
+| **CPP 02** | OCF | Orthodox Canonical Form. | [DevDoc](./Rank-04/cpp_02/) |
+| **CPP 03** | Inheritance | Class inheritance. | [DevDoc](./Rank-04/cpp_03/) |
+| **CPP 04** | Polymorphism | Virtual functions and interfaces. | [DevDoc](./Rank-04/cpp_04/) |
+| **CPP 05** | Exceptions | Exception handling. | [DevDoc](./Rank-05/cpp_05/) |
+| **CPP 06** | Casting | Type casting in C++. | [DevDoc](./Rank-05/cpp_06/) |
+| **CPP 07** | Templates | Generic programming. | [DevDoc](./Rank-05/cpp_07/) |
+| **CPP 08** | STL | Containers and algorithms. | [DevDoc](./Rank-05/cpp_08/) |
+| **CPP 09** | Integration | STL and advanced usage. | [DevDoc](./Rank-05/cpp_09/) |
+
+### Rank 05: Infrastructure & networks (DevOps)
+| Project | Focus | Key Technical Concepts | Documentation |
+| :--- | :--- | :--- | :--- |
+| **ft_irc** | Networking | Socket programming and IRC protocol. | [DevDoc](./Rank-05/ft_irc/) |
+| **Inception** | DevOps | Docker, Nginx, MariaDB, and system orchestration. | [DevDoc](./Rank-05/inception/) |
 
 ---
 
